@@ -1,4 +1,11 @@
 import java.util.*;
+/*
+The user can enter no more than 10 numbers.  
+The program should stop prompting input when the user has entered the 10th number or input a negative value, e.g. -1.  
+Then, the program starts to calculate the following statistics.
+
+
+*/
 public class Lab8Ex8 {
     public static void main(String[] args) {
         double sum=0,count=0,data;
