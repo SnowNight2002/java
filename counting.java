@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class m {
+public class counting {
     public static void main( String[] args ) {
         Scanner input = new Scanner(System.in);
        double sum=0;
