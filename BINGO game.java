@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class BINGO_wong_wing_fung_210023180 {
+public class BINGO {
     public static void main( String[] args ) {
     char[][] p1 = {{24,2,8,1,25},{12,16,7,17,15},{5,6,20,19,13},{14,23,22,4,3},{10,18,11,21,9}}; //play 1
     char[][] p2 = {{24,21,17,15,6},{10,3,8,18,20},{14,7,16,12,5},{25,23,13,19,11},{22,4,9,1,2}}; //play 2
